@@ -1,4 +1,4 @@
-# 57 Code sql to analyst Northwind data
+# 57 Code sql to analyze Northwind data
 
 This GitHub repository contains the schemas, questions and solutions to solve problems in Northwind data by Sql at that level:
 
