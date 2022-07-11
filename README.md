@@ -1,6 +1,6 @@
 # 57 Code sql to analyst Northwind data
 
-This GitHub repository contains the schemas, questions and solutions to solve problems in Northwind data by Sql in there level:
+This GitHub repository contains the schemas, questions and solutions to solve problems in Northwind data by Sql at that level:
 
 - SQl basic code 1-19
 - Sql intermediate code 20-31
